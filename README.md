@@ -1,3 +1,4 @@
-### Hi there 👋
+# Hi, I'm Simon Benedek
 
-![Javacsript](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png)
+### Tech Stack:
+ ![JavaScript](image.png)![React](image-1.png)![Node.js](image-2.png)![CSS](image-3.png)![HTML](image-4.png)![Express](image-5.png)![MongoDB](image-6.png)
