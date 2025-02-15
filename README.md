@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simon Benedek</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://simonbenii.onrender.com/](https://simonbenii.com/)
+- 👨‍💻 All of my projects are available at [https://simonbenii.com/](https://simonbenii.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
